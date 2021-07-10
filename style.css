@@ -1,0 +1,92 @@
+body {
+  padding: 3rem;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  background-color: #c5e5fc;
+}
+
+a {
+  color: #00805e;
+}
+
+header {
+  font-size: 25px;
+}
+
+.summary p {
+  font-size: 22px;
+}
+
+.preamble {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  margin: 25px 25px;
+  border-radius: 25px;
+}
+
+.explanation {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  margin: 25px 25px;
+  border-radius: 25px;
+}
+
+.participation {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  margin: 25px 25px;
+  border-radius: 25px;
+}
+
+.benefits {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  margin: 25px 25px;
+  border-radius: 25px;
+}
+
+.requirements {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  margin: 25px 25px;
+  border-radius: 25px;
+}
+
+footer {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  margin: 25px 25px;
+  border-radius: 25px;
+}
+
+#design-selection {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  margin: 25px 25px;
+  border-radius: 25px;
+}
+
+#design-archives {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  margin: 25px 25px;
+  border-radius: 25px;
+}
+
+#zen-resources {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  margin: 25px 25px;
+  border-radius: 25px;
+}
+
+/*# sourceMappingURL=style.css.map */

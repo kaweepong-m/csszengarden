@@ -1,0 +1,53 @@
+$primary-color: #c5e5fc
+
+@mixin box()
+    background-color: white
+    padding: 2rem
+    box-shadow: 3px 3px 5px #aaaaaa
+    margin: 25px 25px
+    border-radius: 25px
+
+
+
+body 
+    padding: 3rem
+    font-family: "Segoe UI"
+    font-size: 18px
+    background-color: $primary-color
+
+a
+    color: #00805e
+
+header
+    font-size: 25px
+
+.summary p
+    font-size: 22px
+
+
+.preamble
+    @include box
+
+.explanation
+    @include box
+
+.participation
+    @include box
+
+.benefits
+    @include box
+
+.requirements
+    @include box
+
+footer
+    @include box
+
+#design-selection
+    @include box
+
+#design-archives
+    @include box
+
+#zen-resources
+    @include box
